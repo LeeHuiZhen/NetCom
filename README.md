@@ -29,7 +29,7 @@ The project was executed in six distinct phases:
 * **Hardware:** Cisco (Routers/Switches/Firewalls), Huawei
 
 ## 👥 Team: TTL Network Solutions
-* Tey Xin Yi....
+* Tey Xin Yi
 * Lee Hui Zhen
 * Tan Hui Shan
 
